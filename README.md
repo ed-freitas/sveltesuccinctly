@@ -2,7 +2,7 @@
 
 This is the example app written for Svelte Succinctly. 
 
-Please read the book for steps-by-steps instructions.
+Please read the book for steps-by-step instructions.
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 

@@ -1,8 +1,10 @@
+![FavBooks](app.png)
+
 # Svelte Succinctly
 
 This is the example app written for Svelte Succinctly. 
 
-Please read the book for steps-by-step instructions.
+Please read the book for step-by-step instructions.
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
